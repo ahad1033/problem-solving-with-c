@@ -4,7 +4,7 @@ int main()
 {
     // printf("Hello World\n");
 
-    // PRINT INTEGER
+    // INTEGER
     int n;
     // n = 5;
     printf("Please enter a number: \n", n);
@@ -16,10 +16,9 @@ int main()
     // LONG INT
     long n;
     n = 123456789;
-    
+
     printf("%ld\n", n);
     */
-    
 
     /*
     // LONG LONG INT
